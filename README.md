@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Im currently working on a couple of projects in my free time
+| project| what its all about|
+|-------:|------------------|
+|3D library - Boam3D| creating a library for making and manipulating 3D files without the need to use a design software but by using code|
+| DIY -Smarthouse| creating a way to control apliances in my house via the local LAN of my wifi to do cool things like turn on lights and activate apliences|
+|awesome- list| ive gatherd some books that i want to read and as i go through them and acumulate more good finds i want to share them|
+
+im curretly expanding my horizon on best practices for software engeneering. 
+
 <!--
 **wabalubdub/wabalubdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
