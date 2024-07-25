@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im currently working on a couple of projects in my free time
+I'm currently working on a couple of projects in my free time
 | project| what its all about|
 |-------:|------------------|
 |3D library - Boam3D| Creating a library for making and manipulating 3D files without the need to use a design software but by using code|
