@@ -3,11 +3,11 @@
 Im currently working on a couple of projects in my free time
 | project| what its all about|
 |-------:|------------------|
-|3D library - Boam3D| creating a library for making and manipulating 3D files without the need to use a design software but by using code|
-| DIY -Smarthouse| creating a way to control appliances in my house via the local LAN of my wifi to do cool things like turn on lights and activate appliances|
-|awesome- list| ive gathered some books that i want to read and as i go through them and accumulate more good finds i want to share them|
+|3D library - Boam3D| Creating a library for making and manipulating 3D files without the need to use a design software but by using code|
+| DIY -Smarthouse| Creating a way to control appliances in my house via the local LAN of my wifi to do cool things like turn on lights and activate appliances|
+|awesome- list| I've gathered some books that i want to read and as i go through them and accumulate more good finds, I want to share them!|
 
-im currently expanding my horizon on best practices for software engineering.
+I'm currently expanding my horizon on best practices for software engineering.
 
 <!--
 **wabalubdub/wabalubdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
