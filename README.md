@@ -5,7 +5,7 @@ I'm currently working on a couple of projects in my free time
 |-------:|------------------|
 |3D library - Boam3D| Creating a library for making and manipulating 3D files without the need to use a design software but by using code|
 | DIY -Smarthouse| Creating a way to control appliances in my house via the local LAN of my wifi to do cool things like turn on lights and activate appliances|
-|awesome- list| I've gathered some books that i want to read and as i go through them and accumulate more good finds, I want to share them!|
+|awesome-BookList| I've gathered some books that i want to read and as i go through them and accumulate more good finds, I want to share them!|
 
 I'm currently expanding my horizon on best practices for software engineering.
 
